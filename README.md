@@ -22,6 +22,11 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 irm https://astral.sh/uv/install.ps1 | iex
 ```
 
+```bash
+# If installed via the standalone installer, uv can update itself to the latest version:
+uv self update
+```
+
 ## Ruff
 
 Ruff is an extremely fast Python linter and formatter:
@@ -63,6 +68,7 @@ Citations:
 [6] https://betterstack.com/community/guides/scaling-python/ruff-explained/
 [7] https://docs.astral.sh/uv/guides/install-python/
 [8] https://github.com/astral-sh/ruff
+[9] https://github.com/astral-sh/uv
 
 ---
 
