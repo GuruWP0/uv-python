@@ -1,7 +1,7 @@
 # uv-python
 # UV and Ruff: Modern Python Development Tools
 
-UV and Ruff are cutting-edge tools for Python development, created by Astral. add Ruff pre-commit
+UV and Ruff are cutting-edge tools for Python development, created by Astral. (ruff-pre-commit)
 
 ## UV
 
