@@ -9,6 +9,7 @@ UV is an ultra-fast Python package manager written in Rust:
 - 10-100 times faster than pip
 - Manages virtual environments and dependencies
 - Compatible with existing Python standards
+- Create a venv when you use uv run
 
 ### Installation
 
