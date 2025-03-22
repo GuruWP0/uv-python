@@ -79,7 +79,7 @@ Citations:
 
 1. Install pre-commit:
    ```bash
-   pip install pre-commit
+   uv tool install pre-commit
    ```
 
 2. Add the following to your `.pre-commit-config.yaml` file:
